@@ -35,8 +35,6 @@ Specialist in <strong>Data Management and Data Quality</strong> at <strong>Safra
 
 <h2>🛠️ Tools & Technologies </h2>
 
-## 🛠️ Tools & Technologies
-
 <p align="left">
 
 💻 <strong>Languages & Web:</strong><br>
