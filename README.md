@@ -5,7 +5,7 @@
 </p>
 <br>
 <p align="center">
-  📍 Currently pursuing a Double Degree – Master 2 in Data Analytics & Marketing Manager (2025 – INSEEC)  
+  📍 Currently Pursuing a Double Degree – Master 2 in Data Analytics & Marketing Manager (2025 – INSEEC)  
 </p>
 <br>
 <p align="center">
