@@ -29,7 +29,8 @@ Specialist in <strong>Data Management and Data Quality</strong> at <strong>Safra
 📚 In addition to my current role, I’ve completed multiple internships in <strong>Data Science</strong> and <strong>Data Analytics</strong>, where I explored 🤖 machine learning and 📉 predictive modeling.
 
 🧠 I’m driven by the belief that high-quality data is the foundation of great decisions.  
-I love transforming complex, messy information into clean, actionable insights that truly make an impact.
+
+🪄 I love transforming complex, messy information into clean, actionable insights that truly make an impact.
 </p>
 
 
