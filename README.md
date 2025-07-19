@@ -40,9 +40,7 @@ Specialist in <strong>Data Management and Data Quality</strong> at <strong>Safra
 💻 <strong>Languages:</strong><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white" />
-
 <br><br>
-
 📚 <strong>Libraries & Frameworks:</strong><br>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
