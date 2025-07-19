@@ -44,9 +44,7 @@ Specialist in <strong>Data Management and Data Quality</strong> at <strong>Safra
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white" />
-
 <br><br>
-
 🗄️ <strong>Databases (SQL & NoSQL):</strong><br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
@@ -55,16 +53,12 @@ Specialist in <strong>Data Management and Data Quality</strong> at <strong>Safra
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" />
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
-
 <br><br>
-
 📊 <strong>Data Visualization:</strong><br>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" />
 <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=flat&logo=python&logoColor=white" />
-
 <br><br>
-
 📦 <strong>Big Data & Statistics Tools:</strong><br>
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white" />
 <img src="https://img.shields.io/badge/Dataiku-FF7F50?style=flat&logo=dataiku&logoColor=white" />
