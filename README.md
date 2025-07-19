@@ -17,5 +17,20 @@
 </p>
 
 
+<h2>🌱 My Path into Data</h2>
+
+<p>
+👩‍💻 I am a :
+
+Specialist in <strong>Data Management and Data Quality</strong> at <strong>Safran</strong> 🏭, where I work on 🔍 data cleaning, 🗂️ cataloging, and the development of 🧾 Data Management Plans. I also create 📊 dashboards to monitor and improve 📈 data quality across the organization.
+
+💡 I'm passionate about building structured and reliable data foundations to support advanced analytics and smarter business decisions.
+
+📚 In addition to my current role, I’ve completed multiple internships in <strong>Data Science</strong> and <strong>Data Analytics</strong>, where I explored 🤖 machine learning and 📉 predictive modeling.
+
+🎓 With an academic background in <strong>Knowledge and Data Science</strong>, and currently pursuing a <strong>Master’s in Data Analytics & Marketing Manager</strong> at <strong>INSEEC</strong> 🏫, I bring both strategic thinking and technical expertise to every project I tackle.
+</p>
+
+
 
 
