@@ -9,9 +9,9 @@
 </p>
 <br>
 <p align="center">
-  🌿 Welcome to my GitHub Space 
+ <em> 🌿 Welcome to my GitHub Space </em>
 </p>
 <br>
 <p align="center">
-  <img src="https://i.pinimg.com/736x/3a/37/5e/3a375ebc0fb5e745318f5c82cbafb6b5.jpg" alt="Data Girl" height="400"/>
+  <img src="https://i.pinimg.com/736x/3a/37/5e/3a375ebc0fb5e745318f5c82cbafb6b5.jpg" alt="Data Girl" height="500"/>
 </p>
