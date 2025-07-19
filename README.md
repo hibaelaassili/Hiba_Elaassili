@@ -28,8 +28,10 @@ Specialist in <strong>Data Management and Data Quality</strong> at <strong>Safra
 
 📚 In addition to my current role, I’ve completed multiple internships in <strong>Data Science</strong> and <strong>Data Analytics</strong>, where I explored 🤖 machine learning and 📉 predictive modeling.
 
-🎓 With an academic background in <strong>Knowledge and Data Science</strong>, and currently pursuing a <strong>Master’s in Data Analytics & Marketing Manager</strong> at <strong>INSEEC</strong> 🏫, I bring both strategic thinking and technical expertise to every project I tackle.
+🧠 I’m driven by the belief that high-quality data is the foundation of great decisions.  
+I love transforming complex, messy information into clean, actionable insights that truly make an impact.
 </p>
+
 
 
 
