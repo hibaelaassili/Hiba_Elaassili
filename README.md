@@ -35,35 +35,40 @@ Specialist in <strong>Data Management and Data Quality</strong> at <strong>Safra
 
 <h2>🛠️ Tools & Technologies </h2>
 
+## 🛠️ Tools & Technologies
+
 <p align="left">
 
-💻 <strong>Languages:</strong><br>
+💻 <strong>Languages & Web:</strong><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white" />
 <br><br>
-📚 <strong>Libraries & Frameworks:</strong><br>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+🗄️ <strong>Databases (SQL & NoSQL):</strong><br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white" />
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" />
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
 <br><br>
 📊 <strong>Data Visualization:</strong><br>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=flat&logo=python&logoColor=white" />
 <br><br>
-🗃️ <strong>Databases & Tools:</strong><br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
-<br><br>
-⚙️ <strong>Workflow:</strong><br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+📦 <strong>Big Data & Statistics Tools:</strong><br>
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/Dataiku-FF7F50?style=flat&logo=dataiku&logoColor=white" />
+<img src="https://img.shields.io/badge/Denodo-E60028?style=flat&logo=data&logoColor=white" />
+<img src="https://img.shields.io/badge/Minitab-006747?style=flat&logo=statistics&logoColor=white" />
+<img src="https://img.shields.io/badge/Talend-20B2AA?style=flat&logo=talend&logoColor=white" />
+<img src="https://img.shields.io/badge/Alteryx-0075A8?style=flat&logo=alteryx&logoColor=white" />
 </p>
-
-
 
 
 
